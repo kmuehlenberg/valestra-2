@@ -29,3 +29,4 @@ export default function Home() {
     </div>
   );
 }
+<img src="/logo.png" alt="Valestra Crest" width={100} height="auto" />
